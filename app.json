@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "mad-orange-ice-cream",
+    "slug": "snack-53063155-da33-4381-a4f6-57f0dabf6ad9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.prachalchettri.snack53063155da334381a4f657f0dabf6ad9"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30eb7ef5-6ce5-4508-80c8-2ad2fbd23aee"
+      }
+    }
+  }
+}
